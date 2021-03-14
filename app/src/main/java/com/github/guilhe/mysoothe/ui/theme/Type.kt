@@ -44,14 +44,14 @@ val typography = Typography(
         fontSize = 15.sp,
         letterSpacing = 1.15.sp,
 
-        ),
+    ),
     h3 = TextStyle(
         fontFamily = lato,
         fontWeight = FontWeight.Bold,
         fontSize = 14.sp,
         letterSpacing = 0.sp,
 
-        ),
+    ),
     body1 = TextStyle(
         fontFamily = lato,
         fontWeight = FontWeight.Normal,

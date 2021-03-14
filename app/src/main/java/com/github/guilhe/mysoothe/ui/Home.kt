@@ -54,7 +54,7 @@ import com.github.guilhe.mysoothe.ui.theme.FabTheme
 import com.github.guilhe.mysoothe.ui.theme.TextInputTheme
 import dev.chrisbanes.accompanist.coil.CoilImage
 import dev.chrisbanes.accompanist.insets.systemBarsPadding
-import java.util.*
+import java.util.Locale
 
 sealed class BottomNavigationScreens(@StringRes val resourceId: Int, val icon: ImageVector) {
     object Home : BottomNavigationScreens(R.string.nav_home, Icons.Filled.Spa)
