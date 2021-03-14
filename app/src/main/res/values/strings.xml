@@ -9,5 +9,19 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Soothe</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="btn_login">Log in</string>
+
+    <string name="hint_email">Email address</string>
+    <string name="hint_pwd">Password</string>
+    <string name="hint_search">Search</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="lbl_no_account">Don\'t have an account?</string>
+    <string name="lbl_favorite">Favorite collections</string>
+    <string name="lbl_body">Align your body</string>
+    <string name="lbl_mind">Align your mind</string>
 </resources>
